@@ -57,7 +57,7 @@
         android:requestLegacyExternalStorage="true"
         android:hardwareAccelerated="true"
         android:icon="@drawable/danlcal"
-        android:label="DanlCal"
+        android:label="DanlCalendar"
         android:taskAffinity="ws.xsoh.etar.task"
         android:requiredAccountType="*"
         android:usesCleartextTraffic="false"
