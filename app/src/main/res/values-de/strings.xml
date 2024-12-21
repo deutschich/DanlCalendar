@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" msgid="5452708708398908131">"Kalender"</string>
+    <string name="app_label" msgid="5452708708398908131">"DanlKalender"</string>
     <string name="when_label" msgid="894636567327261599">"Wann"</string>
     <string name="today" msgid="8577375020252453006">"Heute"</string>
     <string name="tomorrow" msgid="614434811813859237">"Morgen"</string>
@@ -246,7 +246,7 @@
     <string name="calendar_permission_not_granted">Erforderliche Berechtigungen wurden verweigert, aktivieren Sie sie über Einstellungen der App, um Termine zu bearbeiten</string>
     <string name="no_map">Keine Karten gefunden</string>
     <string name="share_label">Teilen</string>
-    <string name="user_rejected_calendar_write_permission">Etar benötigt Lese- und Schreibrechte für den Kalender, um richtig zu funktionieren. Bitte versuchen Sie es erneut.</string>
+    <string name="user_rejected_calendar_write_permission">DanlKalender benötigt Lese- und Schreibrechte für den Kalender, um richtig zu funktionieren. Bitte versuchen Sie es erneut.</string>
     <string name="cal_share_intent_title">Sende Termin an:</string>
     <string name="cal_pick_ics">Wähle die zu importierende Datei</string>
     <string name="cal_nothing_to_import">Nichts zu importieren</string>
@@ -314,12 +314,12 @@
     <string name="preferences_calendar_delete_message">Willst du diesen Kalender wirklich löschen\?</string>
     <string name="preferences_calendar_delete_delete">Kalender löschen</string>
     <string name="preferences_calendar_delete_cancel">Abbrechen</string>
-    <string name="preferences_menu_about">Über Etar</string>
+    <string name="preferences_menu_about">Über DanlKalender</string>
     <string name="offline_account_name">Offline-Kalender</string>
     <string name="preferences_calendar_color_warning_message">Die Änderung der Farbe kann zurückgesetzt werden, wenn der Kalender erneut synchronisiert wird.
 \n
 \nIn DAVx⁵ kann \'Kalenderfarben verwalten\' deaktiviert werden, um dies zu verhindern.</string>
-    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> The Etar Project. Teile davon © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
+    <string name="app_copyright">© 2024-<xliff:g>%1$s</xliff:g> DanlKalender. Teile davon © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
     <string name="authors">Autoren</string>
     <string name="changelog">Änderungsübersicht</string>
     <string name="license">Lizenz</string>
